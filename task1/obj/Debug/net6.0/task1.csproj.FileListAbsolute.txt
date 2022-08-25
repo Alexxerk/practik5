@@ -1,0 +1,15 @@
+S:\Education\C#new\практическое№5\task1\obj\Debug\net6.0\task1.csproj.AssemblyReference.cache
+S:\Education\C#new\практическое№5\task1\obj\Debug\net6.0\task1.GeneratedMSBuildEditorConfig.editorconfig
+S:\Education\C#new\практическое№5\task1\obj\Debug\net6.0\task1.AssemblyInfoInputs.cache
+S:\Education\C#new\практическое№5\task1\obj\Debug\net6.0\task1.AssemblyInfo.cs
+S:\Education\C#new\практическое№5\task1\obj\Debug\net6.0\task1.csproj.CoreCompileInputs.cache
+S:\Education\C#new\практическое№5\task1\bin\Debug\net6.0\task1.exe
+S:\Education\C#new\практическое№5\task1\bin\Debug\net6.0\task1.deps.json
+S:\Education\C#new\практическое№5\task1\bin\Debug\net6.0\task1.runtimeconfig.json
+S:\Education\C#new\практическое№5\task1\bin\Debug\net6.0\task1.dll
+S:\Education\C#new\практическое№5\task1\bin\Debug\net6.0\task1.pdb
+S:\Education\C#new\практическое№5\task1\obj\Debug\net6.0\task1.dll
+S:\Education\C#new\практическое№5\task1\obj\Debug\net6.0\refint\task1.dll
+S:\Education\C#new\практическое№5\task1\obj\Debug\net6.0\task1.pdb
+S:\Education\C#new\практическое№5\task1\obj\Debug\net6.0\task1.genruntimeconfig.cache
+S:\Education\C#new\практическое№5\task1\obj\Debug\net6.0\ref\task1.dll
